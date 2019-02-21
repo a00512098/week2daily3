@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">One Hundred Love Sonnets: XVII</string>
+    <string name="poem_title">One Hundred Love Sonnets: XVII</string>
+    <string name="sentence_one">I love you without knowing how, or when, or from where,</string>
+    <string name="sentence_two">I love you directly without problems or pride:</string>
+    <string name="sentence_three">I love you like this because I don’t know any other way to love,</string>
+    <string name="sentence_four">except in this form in which I am not nor are you,\nso close that your hand upon my chest is mine,</string>
+    <string name="sentence_five">so close that your eyes close with my dreams.</string>
+    <string name="author" translatable="false">Pablo Neruda</string>
+</resources>

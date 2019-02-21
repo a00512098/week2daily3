@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cent Sonnets d\'amour: XVII</string>
+    <string name="poem_title">Cent Sonnets d\'amour: XVII</string>
+    <string name="sentence_one">Je t\'aime sans savoir comment, ni quand ni d\'où,</string>
+    <string name="sentence_two">Je t\'aime directement sans problèmes ni fierté:</string>
+    <string name="sentence_three">Je t\'aime comme ça parce que je ne connais pas d\'autre moyen d\'aimer,</string>
+    <string name="sentence_four">sauf sous cette forme dans laquelle je ne suis ni vous ni êtes, \nsi près que votre main sur ma poitrine est la mienne,</string>
+    <string name="sentence_five">si proche que tes yeux se ferment avec mes rêves.</string>
+</resources>

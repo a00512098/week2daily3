@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/firstSentence"
+        android:text="@string/sentence_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size"
+        android:padding="@dimen/padding"
+        android:gravity="center"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:id="@+id/secodSentence"
+        android:text="@string/sentence_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size"
+        android:padding="@dimen/padding"
+        android:gravity="center"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:id="@+id/thirdSentence"
+        android:text="@string/sentence_three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size"
+        android:padding="@dimen/padding"
+        android:gravity="center"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:id="@+id/fourthSentence"
+        android:text="@string/sentence_four"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size"
+        android:padding="@dimen/padding"
+        android:gravity="center"
+        android:textStyle="italic"
+        android:lineSpacingExtra="@dimen/padding" />
+
+    <TextView
+        android:id="@+id/FifthSentence"
+        android:text="@string/sentence_five"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size"
+        android:padding="@dimen/padding"
+        android:gravity="center"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/author"
+        android:textAlignment="textEnd"
+        android:textSize="@dimen/text_size"
+        android:padding="@dimen/padding"/>
+
+</LinearLayout>

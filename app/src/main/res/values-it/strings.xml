@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cento sonetti: XVII</string>
+    <string name="sentence_one">Ti amo senza sapere come, o quando, o da dove,</string>
+    <string name="sentence_two">Ti amo direttamente senza problemi o orgoglio:</string>
+    <string name="sentence_three">Ti amo così perché non conosco nessun altro modo di amare,</string>
+    <string name="sentence_four">tranne in questa forma in cui io non sono né te,\ncosì vicino che la tua mano sul mio petto è mia,</string>
+    <string name="sentence_five">così vicino che i tuoi occhi si chiudono con i miei sogni.</string>
+    <string name="poem_title">Cento sonetti: XVII</string>
+</resources>

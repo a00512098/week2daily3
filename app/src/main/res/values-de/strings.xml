@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Einhundert Liebes-Sonette: XVII</string>
+    <string name="sentence_one">Ich liebe dich, ohne zu wissen, wie oder wann oder woher</string>
+    <string name="sentence_two">Ich liebe dich direkt ohne Probleme oder Stolz:</string>
+    <string name="sentence_three">Ich liebe dich so, weil ich keine andere Art zu lieben kenne</string>
+    <string name="sentence_four">außer in dieser Form, in der ich weder bin noch du bist, \nso nahe, dass deine Hand auf meiner Brust meine ist,</string>
+    <string name="sentence_five">so nah, dass deine Augen sich mit meinen Träumen schließen.</string>
+    <string name="poem_title">Einhundert Liebes-Sonette: XVII</string>
+</resources>
